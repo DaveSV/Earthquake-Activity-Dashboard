@@ -16,6 +16,7 @@
 6. [Posibles Mejoras y Futuro](#posibles-mejoras-y-futuro)  
 
 ---
+<img width="1342" height="761" alt="Captura de pantalla 2025-09-07 171912" src="https://github.com/user-attachments/assets/c475f28e-2c96-4c5f-b466-99770382bd7b" />
 
 ## Descripción
 Esta aplicación es un prototipo interactivo desarrollado en **Python** que visualiza datos de actividad sísmica reciente.  
