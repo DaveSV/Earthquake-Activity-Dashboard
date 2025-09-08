@@ -5,7 +5,7 @@ import markdown
 
 # Configura tu API Key de OpenAI (usa variables de entorno para producción)
 openai.api_key = "api_key"
-openai.api_base='http://23.95.44.39:11434/v1'
+openai.api_base='http://localhost:11434/v1'
 
 def load_earthquake_data(json_path: str):
     """Carga el JSON de USGS y devuelve un DataFrame limpio con coordenadas."""
